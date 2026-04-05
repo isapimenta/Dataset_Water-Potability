@@ -289,5 +289,3 @@ pytest tests/ -v
 ## Conclusão
 
 A segurança em sistemas de IA não é apenas sobre proteger a API — envolve toda a cadeia: desde a coleta e armazenamento dos dados até o monitoramento contínuo do modelo em produção. As técnicas apresentadas aqui, quando combinadas, constroem um sistema mais robusto, confiável e em conformidade com as regulamentações vigentes.
-
-> *"Security is not a product, but a process."* — Bruce Schneier
