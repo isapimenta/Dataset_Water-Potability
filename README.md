@@ -1,6 +1,4 @@
 # 💧 Sistema de Predição de Potabilidade da Água
-### Engenharia de Software para Sistemas Inteligentes
-
 ---
 
 ## 📋 Visão Geral
